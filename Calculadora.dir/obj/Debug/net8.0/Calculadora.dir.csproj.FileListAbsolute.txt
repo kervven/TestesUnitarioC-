@@ -1,0 +1,14 @@
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.AssemblyInfoInputs.cache
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.AssemblyInfo.cs
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.csproj.CoreCompileInputs.cache
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\bin\Debug\net8.0\Calculadora.dir.exe
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\bin\Debug\net8.0\Calculadora.dir.deps.json
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\bin\Debug\net8.0\Calculadora.dir.runtimeconfig.json
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\bin\Debug\net8.0\Calculadora.dir.dll
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\bin\Debug\net8.0\Calculadora.dir.pdb
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.dll
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\refint\Calculadora.dir.dll
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.pdb
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\Calculadora.dir.genruntimeconfig.cache
+C:\Users\Kerven Kildhery\OneDrive\Documentos\TesteDIO\Calculadora.dir\obj\Debug\net8.0\ref\Calculadora.dir.dll
